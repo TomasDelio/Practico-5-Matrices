@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682522046 source:c:\users\usuario\desktop\matrixfullmovie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
